@@ -1,6 +1,6 @@
 {
   "name": "@sailshq/socket.io-redis",
-  "version": "5.2.0-0",
+  "version": "5.2.0",
   "description": "Production WebSocket/Socket.io adapter for realtime features in your Sails app.",
   "license": "MIT",
   "repository": {
